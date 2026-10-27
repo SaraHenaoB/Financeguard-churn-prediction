@@ -35,7 +35,8 @@ Taking the data into account, the 20% customer loss represents a loss of € 185
 
 ## Executive Summary of the Project
 Detailed metrics analysis, comparisons, and key conclusions of the models are documented in the official report:
-👉 **[Read the Models Report](./docs/Executive%Summary.md)**
+
+👉 **[Read the Executive Summary](./docs/Executive%20Summary.md)**
 
 ## Repository Structure
 The repository is organized as follows:
